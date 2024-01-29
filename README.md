@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lohitkattimani
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on various Data Science project..
+- 📫 How to reach me lohitkattimani1323@gmail.com
